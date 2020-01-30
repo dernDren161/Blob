@@ -1,5 +1,6 @@
 # Blob 
 A blogging application for Open Source Developers.
+
 <b>Technologies Used</b>
 - Framework - `Spring Framework`
 - ORM - `Hibernate`
